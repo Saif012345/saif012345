@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-I build real-world systems including management platforms, e-commerce apps, and security testing environments. I focus on creating scalable, secure, and user-friendly applications.
+I build real world systems including management platforms, e-commerce apps, and security testing environments. I focus on creating scalable, secure, and user-friendly applications.
 
 ---
 
@@ -29,6 +29,7 @@ I build real-world systems including management platforms, e-commerce apps, and 
 ---
 
 ## 📫 Contact
-- Email: saifmansurnet@gmail.com.com  
+- Email: saifmansurnet@gmail.com
+- Email: saif.mansur@ce-log.com
 - GitHub: https://github.com/saif012345
 
