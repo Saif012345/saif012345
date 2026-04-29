@@ -1,8 +1,7 @@
 ## Hi there 👋
 #  I'm Saif Mansur Saif 👋
 
-🚀 Web Developer | Cybersecurity Enthusiast | Ethical Hacker | Digital Forensics
-🔐 Interested in Ethical Hacking, AI Systems & Automation  
+🚀 Web Developer | Cybersecurity Enthusiast | Ethical Hacker | Digital Forensics | AI Systems & Automation  
 
 ---
 
@@ -21,9 +20,9 @@ I build real world systems including management platforms, e-commerce apps, and 
 ---
 
 ## ⚙️ Tech Stack
-- HTML, CSS, Bootstrap, React, Vite, Typescript, Javascript
+- HTML, CSS, Bootstrap, React, Vite, Typescript, Javascript, Python, Bash
 - JavaScript, Firebase  
-- Git, Linux (CSI Linux), Termux  
+- Git, Linux (CSI Linux-Kali Linux), Termux, Parrot OS 
 - OWASP Top 10, Metasploit  
 
 ---
